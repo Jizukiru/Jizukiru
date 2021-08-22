@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jizukiru
 - 👀 I’m interested in all sorts of programming
 - 🌱 I’m currently taking the CS50x Course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Jizukiru#5728 on Discord
 
 <!---
