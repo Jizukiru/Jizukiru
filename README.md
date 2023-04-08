@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jizukiru
-- 👀 I’m interested in all sorts of programming
-- 🌱 I’m currently taking the CS50x Course
-- 📫 How to reach me : Jizukiru#5728 on Discord
-
+HS student
+Hoping to study ICT and Cybersecurity in uni.
+Not a cypherpunk... yet.
+I know basic Python and basically nothing else
 <!---
 Jizukiru/Jizukiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
