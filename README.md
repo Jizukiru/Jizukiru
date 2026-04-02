@@ -11,7 +11,8 @@ I know basic Python, Java, SQL and C (and a bit of university-level math, I gues
 
 
 
-![GIF](https://tenor.com/en-GB/view/ghost-in-the-shell-keyboard-gif-7519694)
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzbWJxbTFxamFrOWdsenFtM2twZW12dXVzcGNmNHE5anVpdGFnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsoCk5kgOcYMM/giphy.gif)
+
 **Disclaimer:* I do not type like this. My type speed is pretty average, actually*
 
 # My programs:
