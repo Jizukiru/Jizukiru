@@ -13,3 +13,8 @@ I know basic Python, Java, SQL and C (and a bit of university-level math, I gues
 ### Machina Citadel Discord bot
 A simple Discord bot meant for dice rolls in the [Cyberpunk: RED](https://rtalsoriangames.com/cyberpunk/) TTRPG. Self-hosted on a Raspberry Pi 1A.
 
+
+# Ideas for future projects:
+### Intergration of fighter aircraft Voice Warning Systems in drones/quadcopters
+If possible, use the tools already present in comerically available drones (e.g. accelerometer) to simulate a fighter craft's Voice Warning System in the controller. For example, responding *"Bingo"* to the drone's pilot when the battery is low. It is an ambitious project that will hopefully give me good practice for a lot of the skills I'm being trained for in my university.
+
