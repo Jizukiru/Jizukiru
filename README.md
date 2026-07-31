@@ -1,4 +1,4 @@
-# *"I am a living, thinking entity that was created in the sea of information."*
+## *"I am a living, thinking entity that was created in the sea of information."*
 -Puppet Master, Ghost in the Shell
 
 
