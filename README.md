@@ -11,9 +11,7 @@ I know basic Python, Java, SQL and C (and a bit of university-level math, I gues
 
 # My programs:
 ### Machina Citadel Discord bot
-A simple Discord bot meant for dice rolls in the [Cyberpunk: RED](https://rtalsoriangames.com/cyberpunk/) TTRPG. Self-hosted on a Raspberry Pi 1A.
-
--# Currently inactive
+A simple Discord bot meant for dice rolls in the [Cyberpunk: RED](https://rtalsoriangames.com/cyberpunk/) TTRPG. Self-hosted on a Raspberry Pi 1A. (Currently inactive to eventually add new features)
 
 
 # Ideas for future projects:
