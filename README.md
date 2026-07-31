@@ -1,4 +1,8 @@
-## *"I am a living, thinking entity that was created in the sea of information."* 
+### *"I am a living, thinking entity that was created in the sea of information."*
+ 
+<sub>-Puppet Master, Ghost in the Shell</sub>
+
+<br>
 
 Φοιτητής του τμήματος Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων στο ΔΙΠΑΕ.
 Στοχεύω την ειδίκευση στην κυβερνοασφάλεια αλλά είμαι ανοιχτός προς άλλους τομείς της Πληροφορικής καθώς μου γίνονται αντιληπτοί από τις σπουδές μου, δεδομένου ότι προσφέρουν επαρκές ενδιαφέρον.
