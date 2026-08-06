@@ -18,6 +18,8 @@ I know basic Python, Java, SQL and C (and a bit of university-level math, I gues
 # My programs:
 ### Machina Citadel Discord bot
 A simple Discord bot meant for dice rolls in the [Cyberpunk: RED](https://rtalsoriangames.com/cyberpunk/) TTRPG. Self-hosted on a Raspberry Pi 1A. (Currently inactive to eventually add new features)
+### Ciphers repo
+A bunch of popular ciphers and cryptography algorithms implemented by yours truly. Mainly for practice and to get a feel for the world of cryptography, and fields adjacent to it like steganography
 
 
 # Ideas for future projects:
